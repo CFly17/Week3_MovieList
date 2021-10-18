@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.exe
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.deps.json
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.dll
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\bin\Debug\netcoreapp3.1\Week3_MovieListLab.pdb
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.dll
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.pdb
+C:\Users\CFlynn3\source\repos\Week3_MovieListLab\Week3_MovieListLab\obj\Debug\netcoreapp3.1\Week3_MovieListLab.genruntimeconfig.cache
